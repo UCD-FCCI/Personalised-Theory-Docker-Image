@@ -41,9 +41,9 @@ Before you begin, ensure you have the following installed on your system:
     cd NEW_REPO_NAME
     ```
 
-    > [!NOTE]
-    > - Replace YOUR_USERNAME and NEW_REPO_NAME with appropriate values.
-    > - After creating the repository, customize app.py and other files as described below.
+> [!NOTE]
+> - Replace YOUR_USERNAME and NEW_REPO_NAME with appropriate values.
+> - After creating the repository, customize app.py and other files as described below.
 
 2. **Customize Your Questions**
    - Edit `app.py` to implement your question logic (see [Customization Guide](#customization-guide))
