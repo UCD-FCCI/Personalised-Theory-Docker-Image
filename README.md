@@ -26,11 +26,24 @@ Before you begin, ensure you have the following installed on your system:
 
 ### Quick Start Guide
 
-1. **Clone or Fork this Repository**
-   ```bash
-   git clone https://github.com/UCD-FCCI/Personalised-Theory-Docker-Image
-   cd Personalised-Theory-Docker-Image
-   ```
+1. **Create a new repository from this template**
+
+    1. Open the template repository page:
+    https://github.com/UCD-FCCI/Personalised-Theory-Docker-Image
+
+    2. Click "**Use this template**" button at the top right → choose an owner, give the new repository a name, set visibility (**should be Private due to exam security**), then click "**Create repository from template**".
+
+    3. Clone the new repository locally:
+    ```bash
+    # HTTPS
+    git clone https://github.com/YOUR_USERNAME/NEW_REPO_NAME.git
+
+    cd NEW_REPO_NAME
+    ```
+
+    > [!NOTE]
+    > - Replace YOUR_USERNAME and NEW_REPO_NAME with appropriate values.
+    > - After creating the repository, customize app.py and other files as described below.
 
 2. **Customize Your Questions**
    - Edit `app.py` to implement your question logic (see [Customization Guide](#customization-guide))
