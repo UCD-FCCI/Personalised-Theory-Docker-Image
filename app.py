@@ -7,7 +7,7 @@ question services that can be deployed as Docker containers.
 Template Usage:
 1. Modify the main() function to implement your question generation logic
 2. Update the returned question and solution content
-3. Add any additional functions or logic as needed
+3. Add any additional functions or endpoints as needed
 4. Build and deploy using the provided Dockerfile
 
 This Docker image will be integrated into our new computer-based exam platform.
